@@ -5,9 +5,9 @@ Functionality:
 - [x] Screenshotting
 
 Dependencies:
-- [] Scrot 
-- [] xclip
-- [] 10+ IQ
+- [ ] Scrot 
+- [ ] xclip
+- [ ] 10+ IQ
 
 Installation:
 ```bash
